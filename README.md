@@ -23,3 +23,4 @@ From there assembly, feature expansion and done! It was modified to use an NTP t
 ![119061191_10224746569237672_3589316026076861871_n](https://user-images.githubusercontent.com/8798897/189246431-f59deab7-b6b2-4eb0-8f33-a12238592362.jpg)
 
 Future plans for it involve using Geolocation to automatically set the timezone (versus the current hardcoded Central time) so it can be a bit more flexible.
+![119666221_10224820562527458_4136581820536597280_n (1)](https://user-images.githubusercontent.com/8798897/189247263-88e182b1-4dab-4df6-b12a-0f6ac09c6bb9.jpg)
