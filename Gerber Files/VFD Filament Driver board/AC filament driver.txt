@@ -1,0 +1,18 @@
+Partlist exported from E:/Users/dutch/Documents/EAGLE/projects/VFD Filament Driver board/AC filament driver.sch at 2/19/2020 5:39 PM
+
+Part Value  Device          Package            Description                
+C1   .1uF   C-US050-024X044 C050-024X044       CAPACITOR, American symbol 
+C2   10uF   C-US025-060X050 C025-060X050       CAPACITOR, American symbol 
+C3   .01uF  C-EUC0805       C0805              CAPACITOR, European symbol 
+C4   1uF    C-US025-060X050 C025-060X050       CAPACITOR, American symbol 
+JP1         PINHD-1X2       1X02               PIN HEADER                 
+JP2         PINHD-1X2       1X02               PIN HEADER                 
+LED1        LEDCHIP-LED0805 CHIP-LED0805       LED                        
+R1   2.2K   R-US_R0805      R0805              RESISTOR, American symbol  
+R2   10K    R-US_R0805      R0805              RESISTOR, American symbol  
+R3   10K    R-US_R0805      R0805              RESISTOR, American symbol  
+R4   10K    R-US_R0805      R0805              RESISTOR, American symbol  
+R5   1k     R-US_R0805      R0805              RESISTOR, American symbol  
+R6   1K     R-US_R0805      R0805              RESISTOR, American symbol  
+R7   150    R-US_R0805      R0805              RESISTOR, American symbol  
+U$1  LM9022 LM9022          SOIC127P600X175-8N VFD Filament Driver        
